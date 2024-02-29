@@ -1,0 +1,15 @@
+# test and coverage
+pytest
+coverage[toml]
+# code quality
+flake8
+requests
+mypy
+pylint
+types-requests
+isort
+black
+# accessory
+lorem-text
+bs4
+pep8-naming
